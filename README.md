@@ -1,0 +1,1 @@
+This repository contains a web development project built by Giri Prasath.S. The project aims to provide a modern and responsive web solution, built with the latest web technologies. This can be a portfolio, a personal blog, a business website, or any other type of web application depending on the project requirements.
